@@ -1,2 +1,2 @@
 # nextjs_sample
-sample project for next js
+sample project for next js.
